@@ -18,6 +18,16 @@ https://www.cnblogs.com/ldq678/p/10448374.html
 @babel/runtime-corejs2 解决全局变量污染的问题  
 https://www.cnblogs.com/sea-breeze/p/10490672.html  
 
+cross-env 设置development和production环境来处理不同的逻辑  
+https://www.jianshu.com/p/75b429e2c84b  
+
+clean-webpack-plugin 打包前先清空  
+html-webpack-plugin 自动处理把js和css等替换到html文件  
+mini-css-extract-plugin 抽离css成单独文件，引入   
+webpack-dev-server 启动webpack的本地服务  
+
+
+style-loader css-loader  less-loader less（样式的执行顺序从有向左）  
 
 
 
